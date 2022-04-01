@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Computer Vision and Data Structures
-🌱 I’m currently learning about Transformer Networks
+#### 🔭 I’m currently working on Computer Vision and Data Structures
+#### 🌱 I’m currently learning about Transformer Networks
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya72001&theme=graywhite&layout=compact&langs_count=8&hide_border=true&exclude_repo=comp-graph-finalProject,beautifulTrees_IS_F311" width="40%">  &emsp; &emsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=kartikeya72001&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
 <!--
